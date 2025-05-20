@@ -2,7 +2,7 @@
 ## Name : Shehan Shajahan
 ## Registration Number : 212223240154
 ## AIM :
-To write the python program for simulating ping command and to write the python program for simulating Traceroute command.
+To write the python program for simulating ping command.
 ## Software : 
 Command Prompt And Network Protocol Analyzer
 ## Algorithm For PING :
@@ -18,15 +18,6 @@ Step 5: Get the details of the server
 5.4: minimum, maximum and average times.
 Step 6: print the results.
 Step 7: Stop the program.
-```
-## Algorithm For TRACEROUTE :
-```
-1. Start the program.
-2. Get the frame size from the user.
-3. To create the frame based on the user request.
-4. To send frames to server from the client side.
-5. If your frames reach the server, it will send ACK signal to client otherwise it will send NACK signal to client.
-6. Stop the program
 ```
 ## Procedure: To do this EXPERIMENT- follows these steps:
 <BR>
@@ -83,14 +74,6 @@ while True:
 
 ## Output: 
 ![Screenshot 2025-04-16 105319](https://github.com/user-attachments/assets/34fd5dbc-f52f-4605-bc87-eb50b7163eed)
-
-## TRACEROUTE
-## Command :
-```
-tracert www.facebook.com
-```
-## Output :
-![image](https://github.com/user-attachments/assets/26bc98d0-9a26-4f4f-b433-ce755634d1ee)
 
 ## Result
 Thus Execution of Network commands Performed.
